@@ -1,0 +1,28 @@
+{
+  "name": "aws-upload-csv",
+  "version": "0.0.0",
+  "description": "This is the description of the plugin.",
+  "strapi": {
+    "name": "aws-upload-csv",
+    "description": "Description of aws-upload-csv plugin",
+    "kind": "plugin"
+  },
+  "dependencies": {
+    "aws4-axios": "^2.4.9",
+    "csv-parser": "^3.0.0",
+    "papaparse": "^5.3.1"
+  },
+  "author": {
+    "name": "A Strapi developer"
+  },
+  "maintainers": [
+    {
+      "name": "A Strapi developer"
+    }
+  ],
+  "engines": {
+    "node": ">=12.x. <=16.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
